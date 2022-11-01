@@ -1,13 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=8acffc&height=250&section=header&text=David%20Yang&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2388B0FF&title_bg=%23868686&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
+<br><br><br>
 😄 <b> Welcome to David's Github</b><br>
 🌱 <b> Planting plants every day</b><br>
 🎓 <b> Learning Web Front-end</b><br>
-
 <br>
-✨<b>SKILL</b><br><br><br>
+<h3><b>🖱️ SKILL </b></h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -30,7 +29,7 @@
 
 
 <br>
-✨<b>MY</b><br><br>
+<h3><b>💙 MY </b></h3>
 <a href="http://didekdnlt1996.dothome.co.kr/dw-portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-60A5FA?style=flat-square&logo=pixiv&logoColor=white"/></a>
 <a href="https://ydw1996.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Beats by Dre&logoColor=white"/></a>
 <a href="https://www.instagram.com/dawisyang/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
