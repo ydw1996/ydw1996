@@ -28,7 +28,7 @@
 
 
 <h3><b>💙 MY </b></h3>
-<a href="http://didekdnlt1996.dothome.co.kr/dw-portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-60A5FA?style=flat-square&logo=pixiv&logoColor=white"/></a>
-<a href="https://ydw1996.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Beats by Dre&logoColor=white"/></a>
+<!-- <a href="http://didekdnlt1996.dothome.co.kr/dw-portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-60A5FA?style=flat-square&logo=pixiv&logoColor=white"/></a> -->
+<!-- <a href="https://ydw1996.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Beats by Dre&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/dawisyang/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
