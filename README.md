@@ -32,3 +32,5 @@
 <!-- <a href="https://ydw1996.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Beats by Dre&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/dawisyang/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/ydw1996)<br/>
+
