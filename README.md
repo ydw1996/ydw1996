@@ -32,5 +32,5 @@
 <!-- <a href="https://ydw1996.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Beats by Dre&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/dawisyang/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/ydw1996)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/ydw1996/github-readme-stats)
 </div>
