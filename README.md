@@ -32,5 +32,6 @@
 <!-- <a href="https://ydw1996.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Beats by Dre&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/dawisyang/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/ydw1996/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydw1996&theme=transparent_icons=true)
+
 </div>
