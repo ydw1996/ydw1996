@@ -25,15 +25,6 @@
 <img src="https://img.shields.io/badge/AI-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
-
-
-<h3><b>💙 MY </b></h3>
-<!-- <a href="http://didekdnlt1996.dothome.co.kr/dw-portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-60A5FA?style=flat-square&logo=pixiv&logoColor=white"/></a> -->
-<!-- <a href="https://ydw1996.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Beats by Dre&logoColor=white"/></a> -->
-<a href="https://www.instagram.com/dawisyang/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://warp-galley-0d7.notion.site/44d75ace2fca45399ef347d955a0c555?v=d1ecb15fbd03418fbfb2dc4bc5165e32&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</div>
-
 <br>
 
 
