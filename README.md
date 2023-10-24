@@ -33,3 +33,16 @@
 <a href="https://www.instagram.com/dawisyang/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://warp-galley-0d7.notion.site/44d75ace2fca45399ef347d955a0c555?v=d1ecb15fbd03418fbfb2dc4bc5165e32&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
+
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+
+![Stats Overview](https://raw.githubusercontent.com/ydw1996/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ydw1996/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
