@@ -12,9 +12,8 @@
 
 지금 이 순간도 **더 좋은 서비스를 위해 배우고 시도**합니다.  <br>
 
-<p>☕ Side Projects &nbsp;|&nbsp; 🧩 UX & UI Thinking &nbsp;|&nbsp; 🛠 Real-World Frontend Dev</p>
+#### <p>☕ Side Projects &nbsp;|&nbsp; 🧩 UX & UI Thinking &nbsp;|&nbsp; 🛠 Real-World Frontend Dev</p>
 
-<br>
 
 <h3><b>🖱️ SKILL </b></h3>
 
@@ -27,7 +26,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
-<br>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
